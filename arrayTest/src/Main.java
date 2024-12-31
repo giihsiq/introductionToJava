@@ -9,17 +9,17 @@ public class Main {
 
         int n = sc.nextInt();
 
-        /* tipo do vetor - vect (vetor) = criar novo vetor do tipo double com [n vezes] */
+        // tipo do vetor - vect (vetor) = criar novo vetor do tipo double com [n vezes]
         double[] vect = new double[n];
 
-        /* para i começa na posição 0 *
-         * enquanto i for MENOR que n
-         * incrementa o i >>> pula pra posição 1 */
+        // para i começa na posição 0
+        // enquanto i for MENOR que n
+        // incrementa o i >>> pula pra posição 1
         for (int i = 0; i < n; i++ ) {
             vect[i] = sc.nextDouble();
         }
 
-        /* soma dos elementos dividos pelo n° de elementos */
+        // soma dos elementos dividos pelo n° de elementos
         double sum = 0.0;
         for (int i = 0; i < n; i++) {
             sum += vect[i];
