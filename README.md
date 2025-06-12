@@ -26,14 +26,14 @@ Throughout this project, I’ll be storing exercises, examples, and small practi
 
 ## 📚 References
 
-📖 Complete Java Course - Udemy (Nélio Alves)
-🎥 DevDojo YouTube Channel
-📖 Official Java Documentation
+- 📖 Complete Java Course - Udemy (Nélio Alves)
+- 🎥 DevDojo YouTube Channel
+- 📖 Official Java Documentation
 
 ---
 
 ## ✨ Author
 
 Giovanna Siqueira
-🔗 https://www.linkedin.com/in/giihsiq/
-📧 giihsiq.contato@gmail.com
+- 🔗 https://www.linkedin.com/in/giihsiq/
+- 📧 giihsiq.contato@gmail.com
