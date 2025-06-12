@@ -18,8 +18,8 @@ Throughout this project, I’ll be storing exercises, examples, and small practi
 
 ## 🛠️ Technologies Used
 
-- Java 17
-- IDE: Eclipse
+- Java 17.0.15
+- IDE: Eclipse 2024.03
 - JDK properly configured in your environment
 
 ---
