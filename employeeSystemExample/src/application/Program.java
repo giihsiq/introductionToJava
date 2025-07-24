@@ -21,7 +21,7 @@ public class Program {
 		System.out.print("Tax: ");
 		employee.tax = sc.nextDouble();
 		
-		System.out.println("employeeee: " + employee);
+		System.out.println("employee: " + employee);
 		
 		System.out.println();
 		
