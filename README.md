@@ -36,4 +36,4 @@ Throughout this project, I’ll be storing exercises, examples, and small practi
 
 Giovanna Siqueira
 - 🔗 https://www.linkedin.com/in/giihsiq/
-- 📧 giihsiq.contato@gmail.com
+- 📧 giovanna.siqueiradev@gmail.com
