@@ -21,6 +21,7 @@ public class Product {
 			   + ", $ "
 			   + String.format("%.2f", price)
 			   + ", " + quantity
-			   + " units, Total: $ " + totalValueInStock();
+			   + " units, Total: $ "
+			   + totalValueInStock();
 	}
 }
