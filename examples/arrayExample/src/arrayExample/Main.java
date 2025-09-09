@@ -18,7 +18,7 @@ public class Main {
         // para i começa na posição 0
         // enquanto i for MENOR que n
         // incrementa o i >>> pula pra posição 1
-        for (int i = 0; i < n; i++ ) {
+        for (int i=0; i < n; i++) {
             vect[i] = sc.nextDouble();
         }
 
